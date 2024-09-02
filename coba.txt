@@ -1,2 +1,3 @@
 nama: Achmad Raihan
 pesan: cukup menantang juga first experience menggunakan git 
+semangat: GG 
